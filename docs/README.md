@@ -1,6 +1,4 @@
-# Eurofins DevOps Take-Home: HelloWorld IIS Pipeline
-
-[![CI](https://github.com/nunoermidapacheco/eurofins-devops-take-home/actions/workflows/ci.yml/badge.svg)](https://github.com/nunoermidapacheco/eurofins-devops-take-home/actions/workflows/ci.yml)
+# .NET IIS Deployment Pipeline
 
 A small end-to-end delivery pipeline for a .NET web application: build and package with CI, deploy to IIS on Windows, monitor with a Windows service, and optionally run as a Docker container.
 
